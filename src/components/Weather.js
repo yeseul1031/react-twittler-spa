@@ -13,7 +13,7 @@ const App = () => {
       <div className="App" style={{ display: 'flex' }}>
         <aside style={{ display: 'flex', flexDirection: 'column', width: '250px' }}>
           <Sidebar />
-         
+          {/* Weather에 city props 추가 */}
           <Weather city="Seoul" />
         </aside>
 

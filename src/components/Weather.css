@@ -1,0 +1,9 @@
+/* Weather.css */
+
+.weather-widget {
+  padding: 1rem;
+  background-color: #f0f8ff;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  font-size: 14px;
+}
